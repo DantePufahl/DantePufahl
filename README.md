@@ -1,6 +1,6 @@
 ## Dante Pufahl | Técnico en Programación
 
-### ¡Hola! 👋 Soy Dante, un apasionado programador con especialidad en tecnologías front-end y JavaScript.
+### ¡Hola! 👋 Soy Dante, un apasionado programador con especialidad en tecnologías front-end.
 
 ### Mis pasiones en tech 🚀
 * JavaScript y sus distintos frameworks como React
